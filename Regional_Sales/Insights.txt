@@ -1,0 +1,17 @@
+The main aim of this dashboard was to track sales, shipping, Transactions, deliveries and to know our profit. 
+
+
+
+
+Early Shipping, 39.77% of shipments are being delivered earlier than the expected delivery date indicates that there is a significant portion of the sales orders being fulfilled promptly.
+
+Late Shipping: Although 3.6% of shipments being delivered late may seem relatively low, it's still important to address and minimize this percentage. 
+
+Overall Delivery Performance, there appears to be a significant problem in meeting the expected delivery times.  Urgent attention is needed to identify the root causes of such delays and implement effective measures to rectify the situation.The high percentage of very late shipping (56.63%) suggests that the current delivery performance is not meeting customer expectations. It is crucial to focus on improving delivery timelines and reducing the number of very late shipments. This could involve reevaluating logistics partners, optimizing internal processes, and enhancing communication channels with customers to manage expectations effectively.
+
+ Customer Impact: Late and very late deliveries can lead to dissatisfied customers, potential order cancellations, and negative word-of-mouth. It's essential to monitor customer feedback and complaints related to delivery delays, and address them promptly. Taking corrective actions to improve delivery performance will help maintain customer satisfaction, loyalty, and ultimately drive business growth.
+
+All these also plays a role in the delivery status there by leading to very late delivery of 49.59% which is on a high side and good impact the company negatively.
+
+In the State Sales top 10 transactions by state saw Califonia with 1665 transactios, followed by Texas, Illinois florida respectively.
+Arkansas, district of Columbia, Mississippi Rhode Island also had the lowest transactions the sales team has to put much work in those states to avoid loss of customers. 
